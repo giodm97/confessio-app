@@ -3,6 +3,7 @@ repo: giodm97/confessio-app
 title: "Sprint 3 — OnboardingScreen with GDPR Art. 9 consent"
 labels: enhancement
 status: pending
+base_branch: develop
 ---
 
 ## Overview

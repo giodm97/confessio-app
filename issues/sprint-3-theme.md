@@ -3,6 +3,7 @@ repo: giodm97/confessio-app
 title: "Sprint 3 — Design system: Color, Theme, Type"
 labels: enhancement
 status: pending
+base_branch: develop
 ---
 
 ## Overview

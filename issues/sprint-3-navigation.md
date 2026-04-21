@@ -3,6 +3,7 @@ repo: giodm97/confessio-app
 title: "Sprint 3 — NavGraph, MainActivity, ConfessioApplication"
 labels: enhancement
 status: pending
+base_branch: develop
 ---
 
 ## Overview

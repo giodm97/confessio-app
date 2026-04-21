@@ -3,6 +3,7 @@ repo: giodm97/confessio-app
 title: "Sprint 4 — ConfessionScreen + ConfessionViewModel"
 labels: enhancement
 status: pending
+base_branch: develop
 ---
 
 ## Overview
