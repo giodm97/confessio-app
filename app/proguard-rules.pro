@@ -1,0 +1,2 @@
+-keep class com.confessio.app.data.** { *; }
+-keep class com.confessio.app.network.** { *; }
